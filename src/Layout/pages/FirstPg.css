@@ -1,0 +1,84 @@
+.Main {
+    Background-color: #2B2A2B;
+    height: 900px;
+    color: white;
+
+
+}
+
+
+.City {
+    margin: 0;
+    padding: 10px 50px 0 60px;
+    font-family: Cursive;
+    font-size: 15px;
+}
+
+
+
+.Prikol {
+    height: 120px;
+    background-color: #242324;
+    box-shadow: #1f1e1f 5px 0 10px 10px;
+}
+
+.head {
+    height: 30px;
+    background-color: #c64a9b;
+    box-shadow:
+            #c64a9b 0 0 3px 10px,
+            #bc4693 0 0 20px 0;
+}
+
+.Cns {
+    display: flex;
+    font-family: Cursive;
+    color: #c64a9b;
+    text-shadow: #c64a9b 2px 2px 20px;
+    margin: 25px 0 -42px 50px;
+    width: 200px;
+}
+
+.inp {
+    display: flex;
+    margin: 0 0 -30px 280px;
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #2B2A2B;
+    color: White;
+    font-size: 15px;
+    box-shadow: #1f1e1f 2px 4px 10px 1px;
+}
+
+.Srv {
+    text-decoration: none;
+    color: #bc4693;
+    font-family: Cursive;
+    margin-left: 850px;
+    padding-right: 50px;
+}
+
+.fav {
+    text-decoration: none;
+    color: #bc4693;
+    font-family: Cursive;
+    padding-right: 50px;
+}
+.kor {
+    text-decoration: none;
+    color: #bc4693;
+    font-family: Cursive;
+}
+
+
+a:hover {
+    color: white;
+    transition-duration: 1s;
+}
+
+.void {
+    width: 20px;
+    margin: 5px 5px -555px 5px;
+}

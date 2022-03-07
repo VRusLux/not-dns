@@ -1,0 +1,157 @@
+.Banner {
+    background-image: url("/src/Components/ap.jpg");
+    background-size: 330px;
+    width: 450px;
+    height: 200px;
+    margin: 60px 1px -260px 330px;
+    border-radius: 10px;
+    box-shadow: #1f1e1f 1px 2px 10px 1px;
+}
+
+
+
+.St {
+    margin-left: 25px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.stock {
+    width: 320px;
+    height: 200px;
+    background-color: #1f1e1f;
+    margin: 60px 1px -260px 850px;
+    border-radius: 10px;
+    box-shadow: #242324 1px 1px 10px 1px;
+}
+
+
+.b1 {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: solid #bc4693;
+    margin: 35px 1px 1px -15px;
+    background-color: #1f1e1f;
+    color: white;
+    font-size: 16px;
+}
+
+.b1:hover {
+    background-color: #bc4693;
+    transition-duration: 500ms;
+    border-style: groove;
+}
+
+
+h2 {
+    margin: 400px 0 -430px 330px;
+    width: 300px;
+}
+
+
+.actuality {
+    display: flex;
+    width: 840px;
+    height: 180px;
+    background-color: #1f1e1f;
+    margin: 440px 0 -620px 330px;
+    border-radius: 10px;
+    box-shadow: #242324 1px 1px 10px 1px;
+}
+
+.actblock1 {
+    margin: 20px 0 0 30px;
+    width: 140px;
+    height: 140px;
+    background-color: #2B2A2B;
+    border-radius: 10px;
+    box-shadow: inset #bc4693 1px 1px 10px 2px;
+    background-image: url("/src/Components/Алмаз.png");
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: center;
+}
+.actblock2 {
+    margin: 20px 0 0 20px;
+    width: 140px;
+    height: 140px;
+    background-color: #2B2A2B;
+    border-radius: 10px;
+    box-shadow: inset #bc4693 1px 1px 10px 2px;
+    background-image: url("/src/Components/Алмаз.png");
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: center;
+}
+.actblock3 {
+    margin: 20px 0 0 20px;
+    width: 140px;
+    height: 140px;
+    background-color: #2B2A2B;
+    border-radius: 10px;
+    box-shadow: inset #bc4693 1px 1px 10px 2px;
+    background-image: url("/src/Components/Алмаз.png");
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: center;
+}
+.actblock4 {
+    margin: 20px 0 0 20px;
+    width: 140px;
+    height: 140px;
+    background-color: #2B2A2B;
+    border-radius: 10px;
+    box-shadow: inset #bc4693 1px 1px 10px 2px;
+    background-image: url("/src/Components/Алмаз.png");
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: center;
+}
+.actblock5 {
+    margin: 20px 0 0 20px;
+    width: 140px;
+    height: 140px;
+    background-color: #2B2A2B;
+    border-radius: 10px;
+    box-shadow: inset #bc4693 1px 1px 10px 2px;
+    background-image: url("/src/Components/Алмаз.png");
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: center;
+}
+
+.actblock1:hover {
+    transform: scale(95%);
+    transition-duration: 500ms;
+}
+.actblock2:hover {
+    transform: scale(95%);
+    transition-duration: 500ms;
+}
+.actblock3:hover {
+    transform: scale(95%);
+    transition-duration: 500ms;
+}
+.actblock4:hover {
+    transform: scale(95%);
+    transition-duration: 500ms;
+}
+.actblock5:hover {
+    transform: scale(95%);
+    transition-duration: 500ms;
+}
+
+.Pc {
+    margin: 440px 0 -620px 50px;
+    width: 250px;
+    height: 180px;
+    background-color: #1f1e1f;
+    border-radius: 10px;
+    box-shadow: #242324 1px 1px 10px 1px;
+}
+
+.pcb {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+}

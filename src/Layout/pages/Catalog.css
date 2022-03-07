@@ -1,0 +1,72 @@
+.Cat {
+    margin: 60px 0 0 50px;
+}
+
+
+.Td {
+    width: 240px;
+    height: 80px;
+    background-color: #242324;
+    box-shadow: #1f1e1f 2px 0 10px 1px;
+}
+.rad1 {
+    border-radius: 20px 20px 0 0;
+}
+.rad2 {
+    border-radius: 0 0 20px 20px;
+}
+
+
+.Cube2 {
+    display: none;
+    width: 300px;
+    background-color: #242324;
+    margin-left: 250px;
+    height: 280px;
+    border-radius: 0 10px 10px 10px;
+    box-shadow:
+    1px 1px  #c64a9b,
+    2px 2px  #c64a9b,
+    3px 3px  #c64a9b,
+    4px 4px  #bc4693,
+    5px 5px  #bc4693;
+}
+
+.Td:hover{
+    background-color: #2B2A2B;
+}
+.Td:hover .Cube2{
+    display: block;
+    position: fixed;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+h4:hover {
+    color: #bc4693;
+    transition-duration: 500ms;
+}
+
+
+.par {
+    text-align: center;
+    margin-bottom: 5px;
+}
+.par:hover {
+    color: #bc4693;
+    transition-duration: 500ms;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+h3:hover {
+    color: #bc4693;
+    transition-duration: 500ms;
+}
+
+

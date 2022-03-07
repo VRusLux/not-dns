@@ -1,0 +1,24 @@
+.footer {
+    margin-top: 720px;
+    height: 70px;
+    background-color: #bc4693;
+    box-shadow:
+            #bc4693 0 0 5px 10px,
+            #c64a9b 0 0 30px 1px;
+}
+
+.pic {
+    background-image: url("/src/Layout/f2586cc5d2cb1236036f5b6daf246ddb.png");
+    background-size: 50px;
+    width: 50px;
+    height: 50px;
+    margin-left: 650px;
+
+}
+.Apology {
+    margin: 20px 0 -40px 450px;
+    font-size: 25px;
+    padding-top: 20px;
+    width: 180px;
+}
+
